@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLEAdvProject</string>
+    <string name="start_service">启动广播服务</string>
+</resources>
